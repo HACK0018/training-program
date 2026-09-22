@@ -1,2 +1,2 @@
 # Training program
-my python ang Google Colab practice work.
+my python and Google Colab practice work.
